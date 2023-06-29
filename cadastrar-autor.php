@@ -10,5 +10,5 @@
 	</div>
 	<div class="form-group">
 		<button type="submit" class="btn btn-primary">Enviar</button>
-	</div>
+	</div> 
 </form>
